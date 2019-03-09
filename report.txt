@@ -1,0 +1,10 @@
+1. Created a repositiry in github named MAD314-CV-1896330.
+2. Clone the repository in my system https://github.com/pulkit175/MAD314-CV-1896330.git
+3. Cloning from repository https://github.com/richbighouse/mad-314-cv-assignment.git.
+4. Created my cv using novo resume and named it pulkitcv.
+5. Entered the command  cd mad-314-cv-assignment.
+6. Entered the command git add pulkitcv.pdf
+7. Entered the command git commit
+8. Entered the command git push to push it on the github.
+9. git config --global user.email sharma.pulkit18.ps@gmail.com
+10. git config --global user.name  pulkit175
